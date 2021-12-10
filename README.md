@@ -5,7 +5,7 @@ Phantom Home is a short mystery, horror, adventure game as the player explores a
 
 ## Play now
 
-Play Phantom House [here](final_build/PhantomHome_FinalBuild.html)
+Play Phantom House [here](https://mluckhurst.github.io/IASC-1P04/final_build/PhantomHome_FinalBuild.html)
 
 ## Playtest
 
